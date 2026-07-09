@@ -96,7 +96,7 @@ In the raspberrypi [website](https://www.raspberrypi.com/documentation/computers
 | Component Name | Purpose | Qty | Total Price | Source Link | Distributor |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **Raspberry Pi 5 Model B - 2GB RAM** | The Main Board | 1 | $79.20 | [Quartz Components](https://quartzcomponents.com/products/raspberry-pi-5-model-b-2-gb-ram) | Quartzcomponents |
-| **Waveshare 10.1inch DSI Capacitive Display** | The Main Display | 1 | $58.40 | [Robu](https://robu.in/product/waveshare-10-1inch-dsi-capacitive-touch-display-800x1280-ips-panel-optical-bonding-toughened-glass-panel-10-point-touch/) | Robu |
+| **HD Portable Monitor IPS Panel Display** | The Main Display | 1 | $58.40 | [Amazon](https://www.amazon.in/Smartchoice-Portable-Adaptive-Sync-Ultra-Slim-Speakers/dp/B082MDD1QZ/ref=asc_df_B082MDD1QZ?mcid=1e0e22432f833cda80684c376975740e&tag=googleshopdes-21&linkCode=df0&hvadid=709882637479&hvpos=&hvnetw=g&hvrand=17534364553784857288&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301294&hvtargid=pla-2458690033191&psc=1&hvocijid=17534364553784857288-B082MDD1QZ-&hvexpln=0&gad_source=1) | Amazon |
 | **LI-ION BATTERY (3400mAh)** | To power up the circuit | 6 | $23.70 | [Robu](https://robu.in/product/lg-18650-mj1-3400mah-3c-li-ion-battery/) | Robu |
 | **Raspberry Pi Camera NOIR V2** | For Webcam | 1 | $16.60 | [Robu](https://robu.in/product/raspberry-pi-camera-noir-v2/) | Robu |
 | **Keyboard PCB** | For the main Keyboard | 1 | $17.40 | [JLCPCB](https://jlcpcb.com/) | JLCPCB |
