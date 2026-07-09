@@ -39,6 +39,24 @@ This project can be used in multiple ways, depending upon the user need  like we
 * Custom 3d Printed Enclosure
 * Fully Open Source 
 
+
+<img width="763" height="537" alt="Schematic" src="https://github.com/user-attachments/assets/f285dc8b-2353-4577-9847-c609e82f63ba" />
+
+
+## Software 
+
+For software I will use linux for this build and it is also open source 
+
+**[https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/)**
+
+### Linux 
+
+**[https://github.com/raspberrypi/linux](https://github.com/raspberrypi/linux)**
+
+### [The Linux kernel Documentation - [DOC Link ](https://www.raspberrypi.com/documentation/computers/linux_kernel.html)
+
+
+
 |  |  | Building Process |  |  |
 | :-: | :-: | :-: | :-: | :-: |
 | <img src="https://github.com/user-attachments/assets/f537cb19-6c8e-4c03-b361-bda28b168138" width="250" alt="sketch" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/6abda43c-321c-430c-bd14-a532882432fe" width="250" alt="1" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/ddb23dfa-3497-4e89-8c0a-a5bad395143f" width="250" alt="2" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/e6d88735-48f1-4882-8d09-e0b7db91de24" width="250" alt="3" style="border-radius: 12px;" /> | <img src="https://github.com/user-attachments/assets/a016ecc9-1b29-420f-a033-74793c8c7cdc" width="250" alt="5" style="border-radius: 12px;" /> |
