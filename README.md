@@ -107,9 +107,9 @@ In the raspberrypi [website](https://www.raspberrypi.com/documentation/computers
 | **Channel Digital Amplifier Board** | For the Speakers | 1 | $1.50 | [Robu](https://robu.in/product/tpa3110-mono-channel-digital-amplifier-board-30w-power-amplifier-module/) | Robu |
 | **Screws Assorted set** | For fixing the frame | 1 | $2.60 | [OnlyScrews](https://onlyscrews.in/products/m3-allen-button-head-ss304-assorted-box) | OnlyScrew |
 | **Li - Po BMS module** | For battery protection | 1 | $0.70 | [Robu](https://robu.in/product/3s-12v-18650-lithium-battery-protection-board-12v-10a-overcharge-overcurrent-protection/) | Robu |
-| **Raspberry Pi Pico 2** | For the keyboard Controller | 1 | $5.60 | [Robu](https://robu.in/product/raspberry-pi-pico-2/) | Robu |
+| **NRF52840 Development Board** | For the keyboard Controller | 1 | $5.60 | [Electropi](https://www.electropi.in/promicro-nrf52840-development-board?gad_source=1&gad_campaignid=23329895947&gbraid=0AAAAA-s6SdUtXQRsyon4w-qxu8pI331Wq&gclid=CjwKCAjw6rfSBhAqEiwA_yocpiIppj7hV43rD_PcxojI1DsMj5YhazwaElvJitndx7O0P--HmNR6nBoCp00QAvD_BwE) | Electropi |
 | **1N4148 1W Zener Diode** | For the keyboard | 64 | $1.00 | [Robu](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/) | Robu |
-| **20 pin header socket** | For the Pi Pico | 1 | $0.20 | [Robu](https://robu.in/product/2-54mm-1x20-pin-female-single-row-straight-header-strip-pack-of-5/) | Robu |
+| **20 pin header socket** | For the keyboard | 1 | $0.20 | [Robu](https://robu.in/product/2-54mm-1x20-pin-female-single-row-straight-header-strip-pack-of-5/) | Robu |
 | **Self Locking Switch** | For the power switch | 1 | $0.40 | [Robu](https://robu.in/product/r16-503a-plastic-self-locking-latching-switch-2pinoff-on/) | Robu |
 | **USB-C hub module** | For the Cyber Deck Ports | 1 | $2.60 | [Robu](https://robu.in/product/smartelex-usb-hub-with-4x-usb-2-0-ports/) | Robu |
 | **Raspberry Pi 5 Active Cooler** | To cool the Pi | 1 | $5.10 | [Robu](https://robu.in/product/official-raspberry-pi-5-active-cooler/) | Robu |
