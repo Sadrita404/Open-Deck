@@ -53,8 +53,11 @@ For software I will use linux for this build and it is also open source
 
 **[https://github.com/raspberrypi/linux](https://github.com/raspberrypi/linux)**
 
-### [The Linux kernel Documentation - [DOC Link ](https://www.raspberrypi.com/documentation/computers/linux_kernel.html)
+### The Linux kernel Documentation - [DOC Link ](https://www.raspberrypi.com/documentation/computers/linux_kernel.html)
 
+In the raspberrypi [website](https://www.raspberrypi.com/documentation/computers/linux_kernel.html) the documentation about downloading and use cases of Linux for raspberrypi is well documented and everything is written there, so please go check it out and read through the documentation. It is well documented and everything is listed there.
+
+---
 
 
 |  |  | Building Process |  |  |
@@ -116,3 +119,11 @@ For software I will use linux for this build and it is also open source
 | **Shipping** | incl. PCB | - | $22.00 | - | - |
 | **Total** | - | - | $290.00 | - | - |
 | **Total Round Off** | For Dollar rate fluctuation | - | $300.00 | - | - |
+
+
+## Copyright and License
+Copyright (c) 2026 Sadrita Neogi. All rights reserved.
+
+All files are licensed under the MIT license. For more information, see the [LICENSE](LICENSE).
+
+Project Under Hack Club
