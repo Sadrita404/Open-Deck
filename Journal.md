@@ -2,7 +2,7 @@
 | :-- | :---|
 |Author |Sadrita Neogi|
 |Type | Cyber Deck  |
-Total Hrs |   |
+Total Hrs | 19.5 |
 
 
 # Making the Rough Sketch of the Open Deck and Reserch 
