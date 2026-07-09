@@ -90,7 +90,8 @@ So I have completed the schematic for this keyboard. I have used my old projects
 
 <img width="1470" height="956" alt="48" src="https://github.com/user-attachments/assets/8c99ef0a-1efe-426d-8abd-a9196d8b0536" />
 
-<img width="1470" height="956" alt="49" src="https://github.com/user-attachments/assets/513e833f-59b4-4134-b048-fa9975693027" />
+<img width="676" height="373" alt="Screenshot 2026-07-09 at 10 28 00 AM" src="https://github.com/user-attachments/assets/fbd5e1f0-1985-44ca-b8a2-b44a7691eb8a" />
+
 
 <img width="1278" height="713" alt="50" src="https://github.com/user-attachments/assets/5e4a248b-582b-4b41-af08-0614d908c578" />
 
@@ -105,7 +106,7 @@ _Total Time Spent = 3.3hr_
 
 So after completing with design designing the PCB now, why make the PCB want to make a little bit Looks good. I know that the PCB will not be visible in the world, but still I want to add a good silk screen to this PCB 
 
-<img width="1470" height="956" alt="53" src="https://github.com/user-attachments/assets/785db4a6-dea7-436d-927a-1513ef42ede5" />
+<img width="516" height="329" alt="Screenshot 2026-07-09 at 10 29 32 AM" src="https://github.com/user-attachments/assets/3b640bc4-b8c5-469a-ac29-74bf8a930178" />
 
 <img width="835" height="394" alt="52" src="https://github.com/user-attachments/assets/a4dd8139-1b3b-471c-9f04-1a43b0a0fb14" />
 
