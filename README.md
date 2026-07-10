@@ -2,13 +2,12 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-        <img src="https://github.com/user-attachments/assets/b6176d59-ba94-4957-8320-cadc946271e0" width="100%" max-width="800px" alt="Rough Layout For The PCB" style="border-radius: 6px;" />
+        <img src="https://github.com/user-attachments/assets/6c0a26c9-bc7f-4014-838e-cee3d17549fd" width="100%" max-width="800px" alt="Rough Layout For The PCB" style="border-radius: 6px;" />
         <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 500;">
       </td>
     </tr>
   </table>
 </div>
-
 
 
 |Title | Open Deck |
